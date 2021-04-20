@@ -13,14 +13,14 @@ you'll need to install ndless first which can be found here:
 http://ndless.me/
 
 After you have successfully installed ndless onto your Calculator just drag the Player.tns and frames.tns into the same directory on your Ti-nspire.
-
 To launch it you have to open the Player.tns and wait until it's loaded.
-
 Once the Screen turns Black you can start the video by pressing enter once.
 
 Controls:
 ENTER - start/pause
+
 +/-   - Jump one frame forward/backward
+
 ESC   - Exit the Simulation
 
 ![20210420_180737](https://user-images.githubusercontent.com/71556523/115429301-93034a00-a203-11eb-8935-350c93353716.jpg)
